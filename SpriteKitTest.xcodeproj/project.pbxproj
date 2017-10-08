@@ -349,7 +349,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = E7B7C62MQ9;
 				INFOPLIST_FILE = SpriteKitTest/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.pawel.SpriteKitTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -363,7 +363,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = E7B7C62MQ9;
 				INFOPLIST_FILE = SpriteKitTest/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.pawel.SpriteKitTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -420,6 +420,7 @@
 				183FE15A1F51347F00D417CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		183FE15B1F51347F00D417CE /* Build configuration list for PBXNativeTarget "SpriteKitTestTests" */ = {
 			isa = XCConfigurationList;
@@ -428,6 +429,7 @@
 				183FE15D1F51347F00D417CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
